@@ -1,0 +1,3572 @@
+{
+    "traceEvents": [
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904112839,
+            "tts": 13359,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.NewContext",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904113523,
+            "tts": 14035,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.NewContext",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904113615,
+            "tts": 14127,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904113627,
+            "tts": 14139,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904114164,
+            "tts": 14676,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904115181,
+            "tts": 15693,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904115188,
+            "tts": 15700,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904115198,
+            "tts": 15710,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904115235,
+            "tts": 15746,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904116815,
+            "tts": 17308,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904117502,
+            "tts": 17996,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904117530,
+            "tts": 18024,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904117542,
+            "tts": 18036,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904118500,
+            "tts": 18994,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904119915,
+            "tts": 20408,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904119936,
+            "tts": 20430,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904119946,
+            "tts": 20440,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904119978,
+            "tts": 20472,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904120621,
+            "tts": 21115,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904120631,
+            "tts": 21124,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904120643,
+            "tts": 21136,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904120895,
+            "tts": 21390,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904121653,
+            "tts": 22146,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904121662,
+            "tts": 22155,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904121674,
+            "tts": 22168,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904121705,
+            "tts": 22199,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904122093,
+            "tts": 22587,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904122102,
+            "tts": 22596,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904122109,
+            "tts": 22603,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904122822,
+            "tts": 23316,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904122931,
+            "tts": 23425,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904122940,
+            "tts": 23433,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904122946,
+            "tts": 23439,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904123863,
+            "tts": 24357,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904126077,
+            "tts": 26548,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904126087,
+            "tts": 26557,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904126100,
+            "tts": 26571,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904127023,
+            "tts": 27494,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904127138,
+            "tts": 27609,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904127146,
+            "tts": 27617,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904127151,
+            "tts": 27622,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904127763,
+            "tts": 28234,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904128061,
+            "tts": 28532,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904128069,
+            "tts": 28540,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904128075,
+            "tts": 28546,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904129234,
+            "tts": 29706,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904129467,
+            "tts": 29938,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904129475,
+            "tts": 29946,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904129480,
+            "tts": 29952,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904129653,
+            "tts": 30124,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904130015,
+            "tts": 30487,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904130028,
+            "tts": 30499,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904130034,
+            "tts": 30505,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904130400,
+            "tts": 30871,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904130811,
+            "tts": 31282,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904130818,
+            "tts": 31290,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904130825,
+            "tts": 31296,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904131012,
+            "tts": 31483,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904131188,
+            "tts": 31659,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904131196,
+            "tts": 31667,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904131204,
+            "tts": 31676,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904131518,
+            "tts": 31989,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904131706,
+            "tts": 32177,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904131714,
+            "tts": 32184,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904131720,
+            "tts": 32192,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904132165,
+            "tts": 32636,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904132868,
+            "tts": 33339,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904132876,
+            "tts": 33347,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904132888,
+            "tts": 33359,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904132912,
+            "tts": 33382,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904132997,
+            "tts": 33467,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904133004,
+            "tts": 33475,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904133009,
+            "tts": 33480,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904133644,
+            "tts": 34115,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904133768,
+            "tts": 34239,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904133776,
+            "tts": 34247,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904133782,
+            "tts": 34253,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904133833,
+            "tts": 34304,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904134235,
+            "tts": 34706,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904134243,
+            "tts": 34714,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904134254,
+            "tts": 34725,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904134898,
+            "tts": 35363,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904135111,
+            "tts": 35576,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904135120,
+            "tts": 35585,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904135126,
+            "tts": 35591,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904135414,
+            "tts": 35879,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904136722,
+            "tts": 37179,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904136770,
+            "tts": 37226,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904136795,
+            "tts": 37250,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904137043,
+            "tts": 37498,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904138000,
+            "tts": 38458,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904138039,
+            "tts": 38495,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904138053,
+            "tts": 38508,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904138677,
+            "tts": 39134,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904139544,
+            "tts": 40000,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904139553,
+            "tts": 40009,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904139561,
+            "tts": 40016,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904139576,
+            "tts": 40031,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904139768,
+            "tts": 40224,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904139776,
+            "tts": 40231,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904139782,
+            "tts": 40238,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904139826,
+            "tts": 40282,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904141293,
+            "tts": 41750,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904141302,
+            "tts": 41758,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904141315,
+            "tts": 41771,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904141333,
+            "tts": 41788,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904141449,
+            "tts": 41905,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904141456,
+            "tts": 41912,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904141462,
+            "tts": 41918,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904141647,
+            "tts": 42102,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904142203,
+            "tts": 42659,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904142211,
+            "tts": 42667,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904142217,
+            "tts": 42673,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904142726,
+            "tts": 43181,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904142925,
+            "tts": 43381,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904142933,
+            "tts": 43388,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904142939,
+            "tts": 43395,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904142986,
+            "tts": 43441,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904143012,
+            "tts": 43467,
+            "ph": "X",
+            "cat": "v8",
+            "name": "V8.GCScavenger",
+            "dur": 1164,
+            "tdur": 1132,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904146917,
+            "tts": 47340,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904146973,
+            "tts": 47397,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904146993,
+            "tts": 47417,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904147013,
+            "tts": 47437,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148199,
+            "tts": 48623,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148211,
+            "tts": 48635,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148218,
+            "tts": 48642,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148420,
+            "tts": 48844,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148567,
+            "tts": 48991,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148581,
+            "tts": 49004,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148587,
+            "tts": 49011,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148601,
+            "tts": 49025,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148724,
+            "tts": 49148,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148732,
+            "tts": 49156,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148737,
+            "tts": 49160,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904148766,
+            "tts": 49190,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904149768,
+            "tts": 50192,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904149777,
+            "tts": 50201,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904149785,
+            "tts": 50208,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904149826,
+            "tts": 50250,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904149968,
+            "tts": 50393,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904149977,
+            "tts": 50401,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904149983,
+            "tts": 50407,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904150014,
+            "tts": 50438,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904150125,
+            "tts": 50549,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904150133,
+            "tts": 50557,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904150138,
+            "tts": 50562,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904150205,
+            "tts": 50629,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904150794,
+            "tts": 51218,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904150803,
+            "tts": 51226,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904150810,
+            "tts": 51234,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904150959,
+            "tts": 51382,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151141,
+            "tts": 51565,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151151,
+            "tts": 51575,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151162,
+            "tts": 51585,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151263,
+            "tts": 51687,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151514,
+            "tts": 51937,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151523,
+            "tts": 51947,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151529,
+            "tts": 51953,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151596,
+            "tts": 52020,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151684,
+            "tts": 52107,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151692,
+            "tts": 52116,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151700,
+            "tts": 52124,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151801,
+            "tts": 52225,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151987,
+            "tts": 52411,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904151997,
+            "tts": 52420,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152003,
+            "tts": 52427,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152322,
+            "tts": 52746,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152536,
+            "tts": 52960,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152546,
+            "tts": 52970,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152552,
+            "tts": 52976,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152568,
+            "tts": 52992,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152728,
+            "tts": 53151,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152735,
+            "tts": 53160,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152740,
+            "tts": 53164,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152809,
+            "tts": 53233,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152904,
+            "tts": 53328,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152912,
+            "tts": 53336,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152918,
+            "tts": 53341,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904152930,
+            "tts": 53354,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153086,
+            "tts": 53509,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153094,
+            "tts": 53518,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153099,
+            "tts": 53522,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153117,
+            "tts": 53541,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153215,
+            "tts": 53639,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153222,
+            "tts": 53646,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153227,
+            "tts": 53651,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153559,
+            "tts": 53983,
+            "ph": "b",
+            "cat": "node.async_hooks",
+            "name": "PROMISE",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x2",
+            "args": {
+                "executionAsyncId": 1,
+                "triggerAsyncId": 1
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153564,
+            "tts": 53988,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153693,
+            "tts": 54117,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153741,
+            "tts": 54166,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904153992,
+            "tts": 54416,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904154000,
+            "tts": 54424,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904154007,
+            "tts": 54431,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904154022,
+            "tts": 54446,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904154029,
+            "tts": 54453,
+            "ph": "X",
+            "cat": "v8",
+            "name": "V8.GCScavenger",
+            "dur": 952,
+            "tdur": 919,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904155873,
+            "tts": 56264,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904155882,
+            "tts": 56273,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904155892,
+            "tts": 56284,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904155963,
+            "tts": 56354,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904156052,
+            "tts": 56444,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904156060,
+            "tts": 56451,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904156066,
+            "tts": 56457,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904156906,
+            "tts": 57297,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904157221,
+            "tts": 57613,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904157230,
+            "tts": 57622,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904157236,
+            "tts": 57627,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904157474,
+            "tts": 57866,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904157671,
+            "tts": 58062,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904157682,
+            "tts": 58073,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904157688,
+            "tts": 58080,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904157702,
+            "tts": 58093,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904159134,
+            "tts": 59526,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904159143,
+            "tts": 59535,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904159157,
+            "tts": 59548,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904159172,
+            "tts": 59563,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904159232,
+            "tts": 59624,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904159240,
+            "tts": 59631,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904159245,
+            "tts": 59637,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904159578,
+            "tts": 59970,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904160120,
+            "tts": 60512,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904160130,
+            "tts": 60520,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904160136,
+            "tts": 60528,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904160289,
+            "tts": 60680,
+            "ph": "b",
+            "cat": "node.async_hooks",
+            "name": "DNSCHANNEL",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x3",
+            "args": {
+                "executionAsyncId": 1,
+                "triggerAsyncId": 1
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904160294,
+            "tts": 60685,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904160309,
+            "tts": 60700,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904165709,
+            "tts": 66086,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904166796,
+            "tts": 67171,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904166805,
+            "tts": 67181,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904166812,
+            "tts": 67189,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904166828,
+            "tts": 67204,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904167177,
+            "tts": 67554,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904167186,
+            "tts": 67562,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904167192,
+            "tts": 67568,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904167223,
+            "tts": 67600,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904167663,
+            "tts": 68039,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904167671,
+            "tts": 68048,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904167677,
+            "tts": 68053,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904168048,
+            "tts": 68424,
+            "ph": "b",
+            "cat": "node.async_hooks",
+            "name": "TTYWRAP",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x4",
+            "args": {
+                "executionAsyncId": 1,
+                "triggerAsyncId": 1
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904168054,
+            "tts": 68430,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904168064,
+            "tts": 68440,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904172528,
+            "tts": 72898,
+            "ph": "b",
+            "cat": "node.async_hooks",
+            "name": "SIGNALWRAP",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x5",
+            "args": {
+                "executionAsyncId": 1,
+                "triggerAsyncId": 1
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904172536,
+            "tts": 72905,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904172546,
+            "tts": 72916,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904172647,
+            "tts": 73017,
+            "ph": "b",
+            "cat": "node.async_hooks",
+            "name": "TTYWRAP",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x6",
+            "args": {
+                "executionAsyncId": 1,
+                "triggerAsyncId": 1
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904172653,
+            "tts": 73023,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904172659,
+            "tts": 73029,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904179226,
+            "tts": 79596,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904179289,
+            "tts": 79659,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.ScriptCompiler",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904179303,
+            "tts": 79672,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904179308,
+            "tts": 79678,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904179393,
+            "tts": 79763,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904180965,
+            "tts": 81335,
+            "ph": "b",
+            "cat": "node.async_hooks",
+            "name": "TickObject",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x7",
+            "args": {
+                "triggerAsyncId": 1,
+                "executionAsyncId": 1
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904181073,
+            "tts": 81443,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904181081,
+            "tts": 81451,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904181210,
+            "tts": 81580,
+            "ph": "b",
+            "cat": "node.async_hooks",
+            "name": "TickObject",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x8",
+            "args": {
+                "triggerAsyncId": 1,
+                "executionAsyncId": 1
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904181227,
+            "tts": 81596,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904181548,
+            "tts": 81918,
+            "ph": "b",
+            "cat": "node.async_hooks",
+            "name": "TickObject_CALLBACK",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x7",
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904181772,
+            "tts": 82142,
+            "ph": "e",
+            "cat": "node.async_hooks",
+            "name": "TickObject_CALLBACK",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x7",
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904181875,
+            "tts": 82244,
+            "ph": "b",
+            "cat": "node.async_hooks",
+            "name": "TickObject_CALLBACK",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x8",
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904181893,
+            "tts": 82262,
+            "ph": "e",
+            "cat": "node.async_hooks",
+            "name": "TickObject_CALLBACK",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x8",
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182004,
+            "tts": 82373,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182029,
+            "tts": 82399,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182069,
+            "tts": 82439,
+            "ph": "e",
+            "cat": "node.async_hooks",
+            "name": "TickObject",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x7",
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182077,
+            "tts": 82447,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182080,
+            "tts": 82449,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182088,
+            "tts": 82457,
+            "ph": "e",
+            "cat": "node.async_hooks",
+            "name": "TickObject",
+            "dur": 0,
+            "tdur": 0,
+            "id": "0x8",
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182097,
+            "tts": 82466,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182105,
+            "tts": 82474,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182161,
+            "tts": 82531,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182172,
+            "tts": 82541,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182179,
+            "tts": 82549,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182184,
+            "tts": 82553,
+            "ph": "B",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {}
+        },
+        {
+            "pid": 31098,
+            "tid": 775,
+            "ts": 395904182189,
+            "tts": 82558,
+            "ph": "E",
+            "cat": "v8",
+            "name": "V8.Execute",
+            "dur": 0,
+            "tdur": 0,
+            "args": {
+                "runtime-call-stats": {}
+            }
+        }
+    ]
+}
