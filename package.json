@@ -1,5 +1,5 @@
 {
-  "name": "api-learn",
+  "name": "nodejs-api-learn",
   "version": "1.0.0",
   "description": "learn Node.js API",
   "main": "index.js",
@@ -11,5 +11,8 @@
     "API"
   ],
   "author": "cuijie <yinsu@foxmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
